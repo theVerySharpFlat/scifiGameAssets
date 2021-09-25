@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rifle.glb-b0865de72b2e1a56c3e10fd493d0a89a.scn"
+path="res://.import/rifle.glb-dd8ff48d8e47aefe6b099f400a914c33.scn"
 
 [deps]
 
-source_file="res://assets/weapons/rifle.glb"
-dest_files=[ "res://.import/rifle.glb-b0865de72b2e1a56c3e10fd493d0a89a.scn" ]
+source_file="res://assets/weapons/sniperRifle/rifle.glb"
+dest_files=[ "res://.import/rifle.glb-dd8ff48d8e47aefe6b099f400a914c33.scn" ]
 
 [params]
 
@@ -18,7 +18,7 @@ nodes/custom_script=""
 nodes/storage=0
 nodes/use_legacy_names=false
 materials/location=1
-materials/storage=1
+materials/storage=0
 materials/keep_on_reimport=true
 meshes/compress=true
 meshes/ensure_tangents=true
